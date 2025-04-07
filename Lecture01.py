@@ -51,3 +51,25 @@ for i in range(1,11):
     print(i, end=' ')
 
 print()
+
+# total = 0 
+# for i in range(10):
+#     total += int(input("Enter the number: "))
+
+# print("Sum of these numbers: "+ str(total))
+# print("Average of these numbers: " + str(total/10))
+
+# T
+# i
+# g
+# e
+# r
+for x in 'Tiger':
+    print(x)
+
+# Tiger
+# Elephant
+# Zebra
+animals = ["Tiger", "Elephant", "Zebra"]
+for x in animals:
+    print(x)
